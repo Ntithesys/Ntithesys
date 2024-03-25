@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Ntithesys
-- 👀 I’m interested in Android Development and Security.
-- 🌱 I’m currently learning Kotlin and other thingz.
-- 📫 How to reach me: twitter(https://twitter.com/ntithesys)
-                      discord: ntithesys 
-- 😄 Pronouns: AI.
-- ⚡ Fun fact: I'm not that pretty girl on my profile pic.
+It's not important to die early or late, but to die well or badly; to die well is to escape the danger of living badly.
+
+~Lucius Annaeus Seneca
 
 <!---
 Ntithesys/Ntithesys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
